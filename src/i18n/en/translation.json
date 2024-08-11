@@ -1,11 +1,11 @@
 {
   "basic_info": {
-    "name": "Davina Griss",
+    "name": "Bruce Lee",
     "titles": [
       "Front-end Developer",
       "Senior Data Engineer",
       "Dev Team lead",
-      "Mobile App Developer"
+      "FullStack Developer"
     ],
     "socials": [
       {
@@ -25,7 +25,7 @@
   "about_me": {
     "title": "About me",
     "greeting": "Hi",
-    "content": " 👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+    "content": " 👋 I am a highly skilled software engineer with 7+ years of experience in blockchain and web development. I am good at implementing designs with high quality code and highly responsive interfaces using React, PHP, Vue, Angular, etc. I also like new challenges so I can develop any task on time and in fact I prefer more difficult tasks because it makes me stronger, more confident and more intelligent.",
     "image": "myProfile.jpg",
     "tech_stacks": ["devicon:angular", "devicon:react", "devicon:vuejs"]
   },
@@ -108,6 +108,21 @@
       {
         "name": "HTML 5",
         "class": "ri:html5-fill",
+        "level": "95"
+      },
+      {
+        "name": "React",
+        "class": "mdi:react",
+        "level": "95"
+      },
+      {
+        "name": "Next.js",
+        "class": "mdi:language-javascript",
+        "level": "95"
+      },
+      {
+        "name": "Tainwind",
+        "class": "mdi:tailwind",
         "level": "95"
       },
       {
