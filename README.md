@@ -31,7 +31,7 @@ Check live demonstration <a href="https://devmahmud.github.io/react-frontend-dev
 // package.json
 {
   "name": "react-frontend-dev-portfolio",
-  "homepage": "https://devmahmud.github.io/react-frontend-dev-portfolio/",   <-- remove/edit this
+  "homepage": "https://I-am-here-for-you.github.io/My-portfolio/",   <-- remove/edit this
   "version": "0.1.0",
   "private": true,
   "dependencies": {
