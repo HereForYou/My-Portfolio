@@ -12,7 +12,7 @@ const Footer = () => {
           </a>
         ))}
       </div>
-      <p className="py-2 text-xs">{t("copyright")} &copy; Mahmudul Alam</p>
+      <p className="py-2 text-xs">{t("copyright")} &copy; Bruce Lee</p>
     </footer>
   );
 };

@@ -1,5 +1,4 @@
-<img width="80%" align="center" src="https://github.com/devmahmud/react-frontend-dev-portfolio/blob/main/demo/portfolio_mockup.png" alt="portfolio template mockup" /> <br/>
-<img height="350px" align="right" src="https://github.com/devmahmud/react-frontend-dev-portfolio/blob/main/demo/mobile-demo.gif" alt="portfolio mobile demo gif"/>
+<img width="80%" align="center" src="https://github.com/I-am-here-for-you/react-frontend-dev-portfolio/blob/main/demo/portfolio_mockup.png" alt="portfolio template mockup" /> <br/>
 
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/react.svg" height="50" alt="react icon"/>
 <h2>React Tailwind Portfolio Template</h2>
@@ -20,7 +19,7 @@ at GitHub. Check live preview(link below).
 
 Check live demonstration <a href="https://devmahmud.github.io/react-frontend-dev-portfolio/"><strong>here</strong></a>
 
-<img width="100%" src="https://github.com/devmahmud/react-frontend-dev-portfolio/blob/main/demo/react_portfolio_about.png" alt="react frontend dev portfolio preview"/>
+<img width="100%" src="https://github.com/I-am-here-for-you/react-frontend-dev-portfolio/blob/main/demo/react_portfolio_about.png" alt="react frontend dev portfolio preview"/>
 
 <h3>:books: Getting started</h3>
 

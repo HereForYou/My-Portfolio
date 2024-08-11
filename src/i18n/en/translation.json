@@ -9,16 +9,8 @@
     ],
     "socials": [
       {
-        "icon": "mdi:linkedin",
-        "url": "https://www.linkedin.com/in/devmahmud"
-      },
-      {
         "icon": "mdi:github",
-        "url": "https://github.com/devmahmud"
-      },
-      {
-        "icon": "mdi:twitter",
-        "url": "https://twitter.com/expeliermers"
+        "url": "https://github.com/I-am-here-for-you"
       }
     ]
   },
@@ -26,8 +18,8 @@
     "title": "About me",
     "greeting": "Hi",
     "content": " 👋 I am a highly skilled software engineer with 7+ years of experience in blockchain and web development. I am good at implementing designs with high quality code and highly responsive interfaces using React, PHP, Vue, Angular, etc. I also like new challenges so I can develop any task on time and in fact I prefer more difficult tasks because it makes me stronger, more confident and more intelligent.",
-    "image": "myProfile.jpg",
-    "tech_stacks": ["devicon:angular", "devicon:react", "devicon:vuejs"]
+    "image": "profile.jpg",
+    "tech_stacks": ["devicon:angular", "devicon:react", "devicon:nextjs", "devicon:vuejs", "devicon:solidity", "devicon:rust"]
   },
   "projects": {
     "title": "projects",
@@ -57,7 +49,7 @@
         ]
       },
       {
-        "title": "Photography",
+        "title": "Next.js project",
         "startDate": "2018",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
@@ -164,6 +156,16 @@
         "name": "MySql",
         "class": "fontisto:mysql",
         "level": "60"
+      },
+      {
+        "name": "Solidity",
+        "class": "devicon-plain:solidity",
+        "level": "65"
+      },
+      {
+        "name": "Rust",
+        "class": "devicon-plain:rust",
+        "level": "65"
       }
     ]
   },
@@ -171,9 +173,39 @@
     "title": "Experience",
     "experiences": [
       {
-        "company": "DefOpenSource",
+        "company": "Job3",
+        "title": "FullStack Developer",
+        "years": "5.2023 - present",
+        "mainTech": "Next.js",
+        "mainTechIcon": "devicon-plain:nextjs",
+        "technologies": [
+          "REST API",
+          "JavaScript",
+          "TypeScript",
+          "tailwindCSS",
+          "Web3",
+          "Material UI",
+          "Shadcn"
+        ]
+      },
+      {
+        "company": "frenmint",
+        "title": "Blockchain Developer",
+        "years": "6.2021 - 3.2023",
+        "mainTech": "Smart Contract",
+        "mainTechIcon": "devicon-plain:solidity",
+        "technologies": [
+          "Solidity",
+          "Smart Contract",
+          "TypeScript",
+          "Harthat",
+          "Ethereum"
+        ]
+      },
+      {
+        "company": "JobDefOpenSource",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": "10.2019 - 3.2021",
         "mainTech": "Angular 8/9/10",
         "mainTechIcon": "mdi:angular",
         "technologies": [

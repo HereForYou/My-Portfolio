@@ -19,10 +19,11 @@ const AboutMe = () => {
               height="250px"
               className="w-[200px]"
             />
-            <div className="mt-3 flex justify-between">
+            <div className="mt-3 flex flex-wrap justify-between w-[200px]">
               {t("about_me.tech_stacks", { returnObjects: true })?.map(
                 (tech: string) => (
                   <Icon
+                    className="w-1/3 mb-2"
                     key={tech}
                     icon={tech}
                     style={{
@@ -49,7 +50,6 @@ const AboutMe = () => {
                 lineHeight: "200%",
               }}
             >
-              <br />
               <span className="text-xl font-medium dark:text-white">
                 {t("about_me.greeting")} :){" "}
               </span>
