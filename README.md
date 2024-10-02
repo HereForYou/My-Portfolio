@@ -1,4 +1,5 @@
-<img width="80%" align="center" src="https://github.com/I-am-here-for-you/My-Portfolio/blob/about-me-issue/demo/portfolio_mockup.png" alt="portfolio template mockup" /> <br/>
+<img width="80%" align="center" src="https://github.com/HereForYou
+/My-Portfolio/blob/about-me-issue/demo/portfolio_mockup.png" alt="portfolio template mockup" /> <br/>
 
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/react.svg" height="50" alt="react icon"/>
 <h2>React Tailwind Portfolio Template</h2>
@@ -19,7 +20,8 @@ at GitHub. Check live preview(link below).
 
 Check live demonstration <a href="https://devmahmud.github.io/react-frontend-dev-portfolio/"><strong>here</strong></a>
 
-<img width="100%" src="https://github.com/I-am-here-for-you/My-Portfolio/blob/about-me-issue/demo/react_portfolio_about.png" alt="react frontend dev portfolio preview"/>
+<img width="100%" src="https://github.com/HereForYou
+/My-Portfolio/blob/about-me-issue/demo/react_portfolio_about.png" alt="react frontend dev portfolio preview"/>
 
 <h3>:books: Getting started</h3>
 
@@ -31,7 +33,8 @@ Check live demonstration <a href="https://devmahmud.github.io/react-frontend-dev
 // package.json
 {
   "name": "react-frontend-dev-portfolio",
-  "homepage": "https://I-am-here-for-you.github.io/My-portfolio/",   <-- remove/edit this
+  "homepage": "https://HereForYou
+  .github.io/My-portfolio/",   <-- remove/edit this
   "version": "0.1.0",
   "private": true,
   "dependencies": {
